@@ -2,6 +2,10 @@
 
 A React app to search GitHub users and view their profile info.
 
+## Live Demo
+
+(https://dpnxhuu.github.io/github-user-search/)
+
 ## Features
 - Search any GitHub username
 - View avatar, name, bio, followers, following, and public repos
